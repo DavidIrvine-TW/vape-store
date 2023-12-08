@@ -5,6 +5,8 @@
   list-style: none;
   transition: 0.3s;
   letter-spacing: 0.2rem;
+
+ 
 }
 .header__menu-item:hover span {
   text-decoration: none;
@@ -17,7 +19,9 @@
 #HeaderMenu-accessories:hover,
 #HeaderMenu-last-chance:hover {
   font-weight: bold;
-  /* transform: translateY(8px); */
+  color: red;
+
+  transform: translateX(2px);
 }
 .icon-caret {
   transition: 0.3s;
@@ -26,4 +30,7 @@
    text-decoration: none;
 }
 
-class="header__menu-item list-menu__item link link--text focus-inset caption-large list-menu__item--active"
+details[open] .header__menu-item .header__active-menu-item {
+  color: red; /* Replace with your desired color */
+}
+
