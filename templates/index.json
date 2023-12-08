@@ -1,27 +1,27 @@
 {
   "sections": {
-    "e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb": {
+    "65854929-6e9f-4c9b-a638-959fe62e0070": {
       "type": "image-banner",
       "blocks": {
-        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-heading-1": {
+        "template--17093300486401__65854929-6e9f-4c9b-a638-959fe62e0070-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h2"
+            "heading": "Image banner",
+            "heading_size": "h1"
           }
         },
-        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-text-1": {
+        "template--17093300486401__65854929-6e9f-4c9b-a638-959fe62e0070-text-1": {
           "type": "text",
           "settings": {
-            "text": "",
-            "text_style": "caption-with-letter-spacing"
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
-        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-buttons-1": {
+        "template--17093300486401__65854929-6e9f-4c9b-a638-959fe62e0070-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections",
+            "button_label_1": "Button label",
+            "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -30,26 +30,21 @@
         }
       },
       "block_order": [
-        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-heading-1",
-        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-text-1",
-        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-buttons-1"
-      ],
-      "custom_css": [
-        ".banner__box {padding: 2rem;}",
-        ".banner__buttons {background-color: blue;}",
-        ".button--primary {margin: 0px; background-color: pink;}"
+        "template--17093300486401__65854929-6e9f-4c9b-a638-959fe62e0070-heading-1",
+        "template--17093300486401__65854929-6e9f-4c9b-a638-959fe62e0070-text-1",
+        "template--17093300486401__65854929-6e9f-4c9b-a638-959fe62e0070-buttons-1"
       ],
       "settings": {
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "729e0a8e-0a4c-4ddd-bd35-b88838192c94": {
@@ -277,7 +272,7 @@
     }
   },
   "order": [
-    "e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb",
+    "65854929-6e9f-4c9b-a638-959fe62e0070",
     "729e0a8e-0a4c-4ddd-bd35-b88838192c94",
     "e3de766d-2909-41ba-9dc2-a93e99998221",
     "5cb48a9d-b382-4f45-a4ac-97350a71a8bc",
