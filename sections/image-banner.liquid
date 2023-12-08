@@ -1,5 +1,6 @@
 {{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
 {{ 'customFade-in.css' | asset_url | stylesheet_tag }}
+{{  'slide.js' |  asset_url }}
 
 {%- if section.settings.image_height == 'adapt' and section.settings.image != blank -%}
   {%- style -%}
@@ -86,6 +87,7 @@
       widths="{{ widths }}"
       fetchpriority="{{ fetch_priority }}"
     >
+    
   </div>
 
   <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
@@ -123,7 +125,7 @@
                   {{- block.settings.button_label_1 | escape -}}
                 </a>
               {%- endif -%}
-              <!--
+              
                 {%- if block.settings.button_label_2 != blank -%}
                   <a
                     {% if block.settings.button_link_2 == blank %}
@@ -136,7 +138,7 @@
                     {{- block.settings.button_label_2 | escape -}}
                   </a>
                 {%- endif -%}
-              -->
+              
             </div>
         {%- endcase -%}
       {%- endfor -%}
@@ -144,33 +146,6 @@
   </div>
 </div>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const slideImages = [
-      "{{ '791f1e59e84bba5802cd92984887bf4a.gif' | asset_url }}",
-      "{{ 'GIRL-VAPE-GIF.gif' | asset_url }}"
-    ];
-
-    let step = 0;
-
-    function slideIt() {
-      if (!document.images) return;
-
-      const slideElement = document.getElementById('slide');
-      slideElement.src = slideImages[step];
-
-      slideElement.classList.add('fade-in');
-      setTimeout(function () {
-        slideElement.classList.remove('fade-in');
-      }, 500);
-
-      step = (step + 1) % slideImages.length;
-      setTimeout(slideIt, 20000);
-    }
-
-    slideIt();
-  });
-</script>
 
 {% schema %}
 {
