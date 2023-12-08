@@ -17,8 +17,8 @@
 #HeaderMenu-accessories:hover,
 #HeaderMenu-last-chance:hover {
   font-weight: bold;
-  transform: translateY(8px);
+  /* transform: translateY(8px); */
 }
 .icon-caret {
-  transition: 0.5s;
+  transition: 0.3s;
 }
