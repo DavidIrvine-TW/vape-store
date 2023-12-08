@@ -22,3 +22,8 @@
 .icon-caret {
   transition: 0.3s;
 }
+.list-menu__item {
+   text-decoration: none;
+}
+
+class="header__menu-item list-menu__item link link--text focus-inset caption-large list-menu__item--active"
