@@ -25,6 +25,7 @@
 }
 .icon-caret {
   transition: 0.3s;
+  display: none;
 }
 .list-menu__item--active {
    text-decoration: none;
