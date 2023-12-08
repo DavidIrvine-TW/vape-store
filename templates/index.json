@@ -1,1 +1,286 @@
-{"sections":{"e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb":{"type":"image-banner","blocks":{"template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-heading-1":{"type":"heading","settings":{"heading":"<strong>OUR VAPE STORE HAS 10+ YEARS OF EXPERIENCE IN THE VAPE MARKET. ALL VAPE PRODUCTS YOU NEED IN ONE PLACE..<\/strong>","heading_size":"h2"}},"template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-text-1":{"type":"text","settings":{"text":"Enjoy Your Shopping!","text_style":"caption-with-letter-spacing"}},"template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-buttons-1":{"type":"buttons","settings":{"button_label_1":"SHOP NOW","button_link_1":"shopify:\/\/collections","button_style_secondary_1":false,"button_label_2":"Button label","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-heading-1","template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-text-1","template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-buttons-1"],"custom_css":[".banner__box {padding: 2rem;}",".banner__buttons {background-color: blue;}",".button--primary {margin: 0px; background-color: pink;}"],"settings":{"image_overlay_opacity":0,"image_height":"large","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"729e0a8e-0a4c-4ddd-bd35-b88838192c94":{"type":"collection-list","blocks":{"template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-1":{"type":"featured_collection","settings":{"collection":"mods"}},"template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-2":{"type":"featured_collection","settings":{"collection":"batteries"}},"template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-3":{"type":"featured_collection","settings":{"collection":"vape-kits"}},"c69bb853-a195-49e2-9294-eb70ef75bb86":{"type":"featured_collection","settings":{"collection":"liquids"}}},"block_order":["template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-1","template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-2","template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-3","c69bb853-a195-49e2-9294-eb70ef75bb86"],"settings":{"title":"<strong>Featured<\/strong>","heading_size":"h1","image_ratio":"square","columns_desktop":4,"color_scheme":"","show_view_all":true,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":16,"padding_bottom":0}},"e3de766d-2909-41ba-9dc2-a93e99998221":{"type":"multicolumn","blocks":{"template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/img_bn_2.webp","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-3":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-1","template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-2","template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-3"],"settings":{"title":"Multicolumn","heading_size":"h1","image_width":"full","image_ratio":"portrait","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"Button label","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"5cb48a9d-b382-4f45-a4ac-97350a71a8bc":{"type":"featured-product","blocks":{"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-title-1":{"type":"title","settings":{"heading_size":"h1"}},"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-text-1":{"type":"text","settings":{"text":"{{ section.settings.product.vendor }}","text_style":"uppercase"}},"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-price-1":{"type":"price","settings":{}},"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-variant_picker-1":{"type":"variant_picker","settings":{"picker_type":"button"}},"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-quantity_selector-1":{"type":"quantity_selector","settings":{}},"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-buy_buttons-1":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-share-1":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-title-1","template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-text-1","template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-price-1","template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-variant_picker-1","template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-quantity_selector-1","template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-buy_buttons-1","template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-share-1"],"settings":{"product":"","color_scheme":"","secondary_background":false,"media_size":"small","constrain_to_viewport":true,"media_fit":"contain","media_position":"left","image_zoom":"none","hide_variants":false,"enable_video_looping":false,"padding_top":36,"padding_bottom":36}},"186a5d0e-41a5-45d0-bb4c-0736858aced4":{"type":"slideshow","blocks":{"template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-1":{"type":"slide","settings":{"heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-2":{"type":"slide","settings":{"heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}}},"block_order":["template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-1","template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-2"],"settings":{"layout":"grid","slide_height":"small","slider_visual":"numbers","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}}},"order":["e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb","729e0a8e-0a4c-4ddd-bd35-b88838192c94","e3de766d-2909-41ba-9dc2-a93e99998221","5cb48a9d-b382-4f45-a4ac-97350a71a8bc","186a5d0e-41a5-45d0-bb4c-0736858aced4"]}
+{
+  "sections": {
+    "e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>OUR VAPE STORE HAS 10+ YEARS OF EXPERIENCE IN THE VAPE MARKET. ALL VAPE PRODUCTS YOU NEED IN ONE PLACE..<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Enjoy Your Shopping!",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-heading-1",
+        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-text-1",
+        "template--20137070985546__e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb-buttons-1"
+      ],
+      "custom_css": [
+        ".banner__box {padding: 2rem;}",
+        ".banner__buttons {background-color: blue;}",
+        ".button--primary {margin: 0px; background-color: pink;}"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "729e0a8e-0a4c-4ddd-bd35-b88838192c94": {
+      "type": "collection-list",
+      "blocks": {
+        "template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mods"
+          }
+        },
+        "template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "batteries"
+          }
+        },
+        "template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vape-kits"
+          }
+        },
+        "c69bb853-a195-49e2-9294-eb70ef75bb86": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "liquids"
+          }
+        }
+      },
+      "block_order": [
+        "template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-1",
+        "template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-2",
+        "template--20137070985546__729e0a8e-0a4c-4ddd-bd35-b88838192c94-featured_collection-3",
+        "c69bb853-a195-49e2-9294-eb70ef75bb86"
+      ],
+      "settings": {
+        "title": "<strong>Featured<\/strong>",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "e3de766d-2909-41ba-9dc2-a93e99998221": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-1",
+        "template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-2",
+        "template--20137070985546__e3de766d-2909-41ba-9dc2-a93e99998221-column-3"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5cb48a9d-b382-4f45-a4ac-97350a71a8bc": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-title-1",
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-text-1",
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-price-1",
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-variant_picker-1",
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-quantity_selector-1",
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-buy_buttons-1",
+        "template--20137070985546__5cb48a9d-b382-4f45-a4ac-97350a71a8bc-share-1"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "186a5d0e-41a5-45d0-bb4c-0736858aced4": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-2": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-1",
+        "template--20137070985546__186a5d0e-41a5-45d0-bb4c-0736858aced4-slide-2"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "e49e08d3-4fe7-4c46-9e7d-098ee7f7adfb",
+    "729e0a8e-0a4c-4ddd-bd35-b88838192c94",
+    "e3de766d-2909-41ba-9dc2-a93e99998221",
+    "5cb48a9d-b382-4f45-a4ac-97350a71a8bc",
+    "186a5d0e-41a5-45d0-bb4c-0736858aced4"
+  ]
+}
