@@ -22,7 +22,7 @@
 .icon-caret {
   transition: 0.3s;
 }
-.list-menu__item {
+.list-menu__item--active{
    text-decoration: none;
 }
 
