@@ -30,7 +30,7 @@
 }
 
 details[open] .header__menu-item .header__active-menu-item {
-  color: red; /* Replace with your desired color */
+  
   transition: 0.3s;
 }
 
