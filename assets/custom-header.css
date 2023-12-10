@@ -34,17 +34,3 @@ details[open] .header__menu-item .header__active-menu-item {
   transition: 0.3s;
 }
 
-.banner__box {
- background-color: rgba(10, 10, 0, 0.5);
-  width: 500px;
-}
-.banner__heading {
-  letter-spacing: 1.5px;
-}
-
-.divider-123 {
-  height: 2px;
-  width: 20px;
-  background-color: yellow;
-  margin: auto
-}
