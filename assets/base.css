@@ -2821,12 +2821,13 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item:hover span {
-  /* text-decoration: underline; */
+  text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
 
 details[open] > .header__menu-item {
-  /* text-decoration: underline; */
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 details[open]:hover > .header__menu-item {
@@ -2835,18 +2836,19 @@ details[open]:hover > .header__menu-item {
 
 details[open] > .header__menu-item .icon-caret {
   transform: rotate(180deg);
+  transition: .3s;
 }
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   color: rgb(var(--color-foreground));
-  /* text-decoration: underline; */
+  text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
 
-/* .header__menu-item:hover .header__active-menu-item {
+.header__menu-item:hover .header__active-menu-item {
   text-decoration-thickness: 0.2rem;
-} */
+}
 
 .header__submenu {
   transition: opacity var(--duration-default) ease, transform var(--duration-default) ease;
@@ -2882,10 +2884,11 @@ details[open] > .header__menu-item .icon-caret {
   padding: 0.8rem 2rem;
 }
 
-/* .header__submenu .header__menu-item:hover {
-  text-decoration-line: underline;
+.header__submenu .header__menu-item:hover {
+  /* text-decoration-line: underline; */
+  font-weight: bold;
 }
- */
+
 .header__menu-item .icon-caret {
   right: 0.8rem;
 }
