@@ -1,6 +1,6 @@
 {{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
 {{ 'customFade-in.css' | asset_url | stylesheet_tag }}
-{{ 'banner-slide.js' | asset_url | script_tag  }}
+
 
 {%- if section.settings.image_height == 'adapt' and section.settings.image != blank -%}
   {%- style -%}
@@ -146,7 +146,7 @@
   </div>
 </div>
 
-
+{{ 'banner-slide.js' | asset_url | script_tag  }}
 
 {% schema %}
 {
