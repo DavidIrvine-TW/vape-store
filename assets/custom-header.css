@@ -19,13 +19,11 @@
 #HeaderMenu-accessories:hover,
 #HeaderMenu-last-chance:hover {
   font-weight: bold;
-  color: red;
-
-  transform: translateX(2px);
+ 
 }
 .icon-caret {
   transition: 0.3s;
-  display: none;
+  /* display: none; */
 }
 .list-menu__item--active {
    text-decoration: none;
