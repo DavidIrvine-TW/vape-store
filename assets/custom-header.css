@@ -3,7 +3,7 @@
 }
 .header__menu-item {
   list-style: none;
-  transition: 0.3s;
+  /* transition: 0.3s; */
   letter-spacing: 0.2rem;
 
  
@@ -23,7 +23,7 @@
 }
 .icon-caret {
   transition: 0.3s;
-  display: none;
+  /* display: none; */
 }
 .list-menu__item--active {
    text-decoration: none;
