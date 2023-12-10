@@ -139,11 +139,11 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#0f0505",
+          "background": "#fdfef6",
           "background_gradient": "",
-          "text": "#f2e9e9",
-          "button": "#bb2d2a",
-          "button_label": "#f2e9e9",
+          "text": "#1d1f04",
+          "button": "#8fdeea",
+          "button_label": "#1d1f04",
           "secondary_button_label": "#bb2d2a",
           "shadow": "#121212"
         }
