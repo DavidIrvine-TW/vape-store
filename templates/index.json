@@ -20,10 +20,10 @@
         "template--17093300486401__3dd599a1-4a63-4853-b4f3-ab075d6060e3-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "SHOP NOW",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
