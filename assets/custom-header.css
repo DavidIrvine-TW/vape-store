@@ -18,9 +18,11 @@
 #HeaderMenu-coils:hover,
 #HeaderMenu-accessories:hover,
 #HeaderMenu-last-chance:hover {
-  font-weight: bold;
+ 
  
 }
+
+
 .icon-caret {
   transition: 0.3s;
   /* display: none; */
@@ -31,5 +33,6 @@
 
 details[open] .header__menu-item .header__active-menu-item {
   transition: 0.3s;
+   font-weight: bold;
 }
 
