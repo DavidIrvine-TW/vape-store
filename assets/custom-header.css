@@ -36,6 +36,6 @@ details[open] .header__menu-item .header__active-menu-item {
    font-weight: bold;
 }
 
-.header__menu-item, .list-menu__item {
+.header__menu-item .list-menu__item {
 text-decoration: none;
 }
