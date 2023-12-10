@@ -2830,7 +2830,7 @@ details[open] > .header__menu-item {
 }
 
 details[open]:hover > .header__menu-item {
-  /* text-decoration-thickness: 0.2rem; */
+  text-decoration-thickness: 0.2rem;
 }
 
 details[open] > .header__menu-item .icon-caret {
@@ -2882,10 +2882,10 @@ details[open] > .header__menu-item .icon-caret {
   padding: 0.8rem 2rem;
 }
 
-.header__submenu .header__menu-item:hover {
+/* .header__submenu .header__menu-item:hover {
   text-decoration-line: underline;
 }
-
+ */
 .header__menu-item .icon-caret {
   right: 0.8rem;
 }
