@@ -2882,10 +2882,11 @@ details[open] > .header__menu-item .icon-caret {
   padding: 0.8rem 2rem;
 }
 
-/* .header__submenu .header__menu-item:hover {
-  text-decoration-line: underline;
+.header__submenu .header__menu-item:hover {
+  /* text-decoration-line: underline; */
+  font-weight: bold;
 }
- */
+
 .header__menu-item .icon-caret {
   right: 0.8rem;
 }
