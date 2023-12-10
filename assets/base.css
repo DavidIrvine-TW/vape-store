@@ -2883,7 +2883,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__submenu .header__menu-item:hover {
-  /* text-decoration-line: underline; */
+  text-decoration-line: none;
   font-weight: bold;
 }
 
