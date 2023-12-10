@@ -23,14 +23,13 @@
 }
 .icon-caret {
   transition: 0.3s;
-  /* display: none; */
+  display: none;
 }
 .list-menu__item--active {
    text-decoration: none;
 }
 
 details[open] .header__menu-item .header__active-menu-item {
-  
   transition: 0.3s;
 }
 
