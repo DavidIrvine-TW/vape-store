@@ -2880,6 +2880,7 @@ details[open] > .header__menu-item .icon-caret {
 .header__submenu .header__menu-item {
   justify-content: space-between;
   padding: 0.8rem 2rem;
+  text-decoration: none;
 }
 
 .header__submenu .header__menu-item:hover {
