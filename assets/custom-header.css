@@ -1,13 +1,14 @@
 .header-wrapper {
   border-top: 5px solid red;
 }
+
+
 .header__menu-item {
   list-style: none;
-  /* transition: 0.3s; */
-  letter-spacing: 0.2rem;
-
- 
+  letter-spacing: 0.2rem; 
 }
+
+
 .header__menu-item:hover span {
   text-decoration: none;
 }
@@ -22,7 +23,6 @@
  
 }
 
-
 .icon-caret {
   transition: 0.3s;
   /* display: none; */
@@ -33,9 +33,6 @@
 
 details[open] .header__menu-item .header__active-menu-item {
   transition: 0.3s;
-   font-weight: bold;
+  font-weight: bold;
 }
 
-.header__menu-item:hover .list-menu__item:hover {
-text-decoration: none;
-}
