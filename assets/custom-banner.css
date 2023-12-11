@@ -23,7 +23,8 @@
 
 .banner__box {
  background-color: rgba(10, 10, 0, 0.5);
-  width: 500px;
+  max-width: 500px;
+  padding: 2.5rem 2rem;
 }
 
 .banner__heading {
