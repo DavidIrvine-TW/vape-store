@@ -55,9 +55,9 @@
       "settings": {
         "title": "<strong>vape bars<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>premium <\/p>",
         "show_description": true,
-        "description_style": "body",
+        "description_style": "uppercase",
         "collection": "vape-bars",
         "products_to_show": 4,
         "columns_desktop": 4,
