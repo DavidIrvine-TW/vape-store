@@ -47,6 +47,53 @@
         "show_text_below": false
       }
     },
+    "afb7e4d8-1544-4d47-b01e-d91ede0ff47e": {
+      "type": "collection-list",
+      "blocks": {
+        "template--17093300486401__afb7e4d8-1544-4d47-b01e-d91ede0ff47e-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17093300486401__afb7e4d8-1544-4d47-b01e-d91ede0ff47e-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17093300486401__afb7e4d8-1544-4d47-b01e-d91ede0ff47e-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "08782f74-7890-4aa3-9ff0-f7db2dfc1937": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17093300486401__afb7e4d8-1544-4d47-b01e-d91ede0ff47e-featured_collection-1",
+        "template--17093300486401__afb7e4d8-1544-4d47-b01e-d91ede0ff47e-featured_collection-2",
+        "template--17093300486401__afb7e4d8-1544-4d47-b01e-d91ede0ff47e-featured_collection-3",
+        "08782f74-7890-4aa3-9ff0-f7db2dfc1937"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "236da3c7-5323-4e1c-9b81-bb0021f685b3": {
       "type": "multicolumn",
       "blocks": {
@@ -141,6 +188,7 @@
   },
   "order": [
     "3dd599a1-4a63-4853-b4f3-ab075d6060e3",
+    "afb7e4d8-1544-4d47-b01e-d91ede0ff47e",
     "236da3c7-5323-4e1c-9b81-bb0021f685b3",
     "75a4c804-1c67-4304-99cc-e26b7a221653"
   ]
