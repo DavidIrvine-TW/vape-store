@@ -22,6 +22,10 @@
   color: #D00697;
 }
 
+.banner__heading {
+  color: #F4F4F1;
+}
+
 .banner__box {
  background-color: rgba(10, 10, 0, 0.5);
   max-width: 500px;
