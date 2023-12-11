@@ -24,7 +24,7 @@
 .banner__box {
  background-color: rgba(10, 10, 0, 0.5);
   max-width: 500px;
-  padding: 2.5rem 2rem;
+  padding: 0rem 0rem;
 }
 
 .banner__heading {
