@@ -57,11 +57,16 @@
         <h2 class="title inline-richtext {{ section.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
           {{ section.settings.title }}
         </h2>
+      <div>
+        <hr class="divider-123"/> 
+      </div>
       {%- endif -%}
+      
       {%- if section.settings.description != blank
         or section.settings.show_description
         and section.settings.collection.description != empty
       -%}
+      
         <div class="collection__description {{ section.settings.description_style }} rte{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
           {%- if section.settings.show_description -%}
             {{ section.settings.collection.description }}
@@ -69,9 +74,9 @@
             {{ section.settings.description -}}
           {%- endif %}
         </div>
+      
       {%- endif -%}
-      <!-- DIVIDER  -->
-      <!-- <hr class="divider-123"/>  -->
+    
      
     </div>
 
