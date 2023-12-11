@@ -73,9 +73,9 @@
         "show_rating": true,
         "enable_quick_add": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 100,
-        "padding_bottom": 36
+        "padding_bottom": 100
       }
     },
     "afb7e4d8-1544-4d47-b01e-d91ede0ff47e": {
