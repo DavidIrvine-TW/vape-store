@@ -72,7 +72,7 @@
         "show_vendor": true,
         "show_rating": true,
         "enable_quick_add": true,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 100,
         "padding_bottom": 100
