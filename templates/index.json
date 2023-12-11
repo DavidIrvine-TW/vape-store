@@ -50,7 +50,8 @@
     "75a4c804-1c67-4304-99cc-e26b7a221653": {
       "type": "featured-collection",
       "custom_css": [
-        ".title-wrapper {display: flex; align-items: center; justify-content: center;}"
+        ".title-wrapper {display: flex; align-items: center; justify-content: center;}",
+        ".featured-divider {display: flex; align-items: center; justify-content: center;}"
       ],
       "settings": {
         "title": "<strong>Featured collection<\/strong>",
