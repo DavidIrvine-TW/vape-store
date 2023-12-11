@@ -82,8 +82,8 @@
         "08782f74-7890-4aa3-9ff0-f7db2dfc1937"
       ],
       "settings": {
-        "title": "Featured Collections",
-        "heading_size": "h1",
+        "title": "<strong>FEATURED COLLECTIONS<\/strong>",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "",
