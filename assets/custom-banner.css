@@ -26,11 +26,11 @@
   color: #F4F4F1;
 }
 
-.banner__box {
+/* .banner__box {
  background-color: rgba(10, 10, 0, 0.3);
   max-width: 500px;
   padding: 2rem 3rem !important;
-}
+} */
 
 .banner__heading {
   letter-spacing: 2px;
