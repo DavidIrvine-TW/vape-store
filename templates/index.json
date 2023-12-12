@@ -257,12 +257,13 @@
         "template--17093300486401__1bb13dfb-aa07-4ce3-bd63-8f57604dc57a-buttons-1"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/100ml-vape-liquid_1512x_a06b9636-2f66-4df5-a2d6-548a963febf7.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
