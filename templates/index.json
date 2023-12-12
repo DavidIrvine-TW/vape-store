@@ -50,11 +50,7 @@
     "75a4c804-1c67-4304-99cc-e26b7a221653": {
       "type": "featured-collection",
       "custom_css": [
-        ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}",
-        ".card--card {border-radius: 0px; border: 0px;}",
-        ".grid__item {border-radius: 0px;}",
-        ".card__inner {border-radius: 0px;}",
-        "ul {row-gap: 32px;}"
+        ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}"
       ],
       "settings": {
         "title": "<strong>vape bars<\/strong>",
