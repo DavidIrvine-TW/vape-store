@@ -35,7 +35,7 @@
         "template--17093300486401__3dd599a1-4a63-4853-b4f3-ab075d6060e3-buttons-1"
       ],
       "custom_css": [
-        ".banner__box {background-color: rgba(10, 10, 0, 0.3); max-width: 500px; padding: 2rem 3rem !important; border: 3px solid rgba(10, 10, 0, 0.3);}"
+        ".banner__box {background-color: rgba(10, 10, 0, 0.3); \/* max-width: 500px; *\/ padding: 2rem 3rem !important; border: 3px solid rgba(10, 10, 0, 0.3);}"
       ],
       "settings": {
         "image_overlay_opacity": 0,
