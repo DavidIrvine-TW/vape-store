@@ -145,13 +145,13 @@
         "5a56b207-f31a-43fb-b4ff-958134ea8d29"
       ],
       "custom_css": [
-        ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}"
+        ".title-wrapper-with-link {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}"
       ],
       "settings": {
         "title": "<strong>FEATURED COLLECTION<\/strong>",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 2,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
