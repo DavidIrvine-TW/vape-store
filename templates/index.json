@@ -83,6 +83,9 @@
         "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-text-1",
         "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-button-1"
       ],
+      "custom_css": [
+        ".rich-text {border: none;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "right",
