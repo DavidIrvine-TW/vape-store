@@ -156,65 +156,119 @@
         "padding_bottom": 0
       }
     },
-    "236da3c7-5323-4e1c-9b81-bb0021f685b3": {
-      "type": "multicolumn",
+    "a71a53b1-15b8-4175-b62d-5796af693ee0": {
+      "type": "image-banner",
       "blocks": {
-        "template--17093300486401__236da3c7-5323-4e1c-9b81-bb0021f685b3-column-1": {
-          "type": "column",
+        "template--17093300486401__a71a53b1-15b8-4175-b62d-5796af693ee0-heading-1": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "ig;kjb",
-            "link": ""
+            "heading": "Image banner",
+            "heading_size": "h1"
           }
         },
-        "template--17093300486401__236da3c7-5323-4e1c-9b81-bb0021f685b3-column-2": {
-          "type": "column",
+        "template--17093300486401__a71a53b1-15b8-4175-b62d-5796af693ee0-text-1": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
-        "template--17093300486401__236da3c7-5323-4e1c-9b81-bb0021f685b3-column-3": {
-          "type": "column",
+        "template--17093300486401__a71a53b1-15b8-4175-b62d-5796af693ee0-buttons-1": {
+          "type": "buttons",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a39a0043-d37d-4a8f-b621-1f37a2278d09": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--17093300486401__236da3c7-5323-4e1c-9b81-bb0021f685b3-column-1",
-        "template--17093300486401__236da3c7-5323-4e1c-9b81-bb0021f685b3-column-2",
-        "template--17093300486401__236da3c7-5323-4e1c-9b81-bb0021f685b3-column-3",
-        "a39a0043-d37d-4a8f-b621-1f37a2278d09"
+        "template--17093300486401__a71a53b1-15b8-4175-b62d-5796af693ee0-heading-1",
+        "template--17093300486401__a71a53b1-15b8-4175-b62d-5796af693ee0-text-1",
+        "template--17093300486401__a71a53b1-15b8-4175-b62d-5796af693ee0-buttons-1"
       ],
       "settings": {
-        "title": "FEATURED PRODUCTS",
-        "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "df2297c8-7e56-42cf-b444-bffd3719ff0c": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-text-1",
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-title-1",
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-price-1",
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-variant_picker-1",
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-quantity_selector-1",
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-buy_buttons-1",
+        "template--17093300486401__df2297c8-7e56-42cf-b444-bffd3719ff0c-share-1"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -224,6 +278,7 @@
     "3dd599a1-4a63-4853-b4f3-ab075d6060e3",
     "75a4c804-1c67-4304-99cc-e26b7a221653",
     "afb7e4d8-1544-4d47-b01e-d91ede0ff47e",
-    "236da3c7-5323-4e1c-9b81-bb0021f685b3"
+    "a71a53b1-15b8-4175-b62d-5796af693ee0",
+    "df2297c8-7e56-42cf-b444-bffd3719ff0c"
   ]
 }
