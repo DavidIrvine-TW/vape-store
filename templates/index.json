@@ -144,6 +144,9 @@
         "bd9ed825-53e3-4e80-87c7-6550c3a7b924",
         "5a56b207-f31a-43fb-b4ff-958134ea8d29"
       ],
+      "custom_css": [
+        ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}"
+      ],
       "settings": {
         "title": "<strong>FEATURED COLLECTION<\/strong>",
         "heading_size": "h2",
