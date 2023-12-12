@@ -1,0 +1,71 @@
+<script src="https://embed.closeby.co/v1.js?closeby.mapKey=3796e6ad2586cf2a9dee9715e8b7b734&embed=true&height=600"></script>
+{% if section.settings.embed_size == 'centered' %}
+ <section class="page-width">
+   <div class="wrapper">
+     <div class="closeby-embed-3796e6ad2586cf2a9dee9715e8b7b734"><div style="padding:60px 20px;text-align:center;">Please save your theme to load your map.</div></div>
+   </div>
+ </section>
+{% endif %}
+{% if section.settings.embed_size == 'centered_alt' %}
+ <section class="page-width">
+   <div class="grid">
+     <div class="grid__item large--five-sixths push--large--one-twelfth text-center">
+       <div class="px-2 lg:px-4">
+         <div class="flex justify-center">
+           <div class="w-full lg:w-3/4">
+     <div class="closeby-embed-3796e6ad2586cf2a9dee9715e8b7b734"><div style="padding:60px 20px;text-align:center;">Please save your theme to load your map.</div></div>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </section>
+{% endif %}
+{% if section.settings.embed_size == 'full_width' %}
+ <section class="page-content page-full">
+     <div class="closeby-embed-3796e6ad2586cf2a9dee9715e8b7b734"><div style="padding:60px 20px;text-align:center;">Please save your theme to load your map.</div></div>
+ </section>
+{% endif %}
+{% if section.settings.embed_size == 'full_width_2' %}
+ <section>
+   <div class="px-2 lg:px-8">
+     <div class="closeby-embed-3796e6ad2586cf2a9dee9715e8b7b734"><div style="padding:60px 20px;text-align:center;">Please save your theme to load your map.</div></div>
+   </div>
+ </section>
+{% endif %}
+{% schema %}
+  {
+   "name": "Store Locator - Closeby",
+   "class": "closeby-embed-wrapper",
+   "settings": [
+     {
+       "type": "select",
+       "id": "embed_size",
+       "label": "Embed Size",
+       "options": [
+         {
+          "value": "centered",
+          "label": "Centered"
+        },
+        {
+          "value": "centered_alt",
+          "label": "Centered Alt"
+        },
+        {
+          "value": "full_width",
+          "label": "Full Width"
+        },
+        {
+          "value": "full_width_2",
+          "label": "Full Width Alt"
+        }
+      ],
+      "default": "centered"
+    }
+  ],
+  "presets": [{
+    "name": "Store Locator - Closeby",
+    "category": "Custom"
+  }]
+}
+{% endschema %}
