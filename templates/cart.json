@@ -2,7 +2,6 @@
   "sections": {
     "cart-items": {
       "type": "main-cart-items",
-      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "padding_top": 36,
@@ -27,7 +26,6 @@
         "subtotal",
         "buttons"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "padding_top": 20,
