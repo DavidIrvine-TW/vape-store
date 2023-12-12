@@ -50,6 +50,48 @@
         "show_text_below": false
       }
     },
+    "9b384978-a59a-45a1-a182-aeec23f14080": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-heading-1",
+        "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-text-1",
+        "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "75a4c804-1c67-4304-99cc-e26b7a221653": {
       "type": "featured-collection",
       "custom_css": [
@@ -58,7 +100,7 @@
         "ul > li {width: 100px;}"
       ],
       "settings": {
-        "title": "<strong>vape bars<\/strong>",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -282,6 +324,7 @@
   },
   "order": [
     "3dd599a1-4a63-4853-b4f3-ab075d6060e3",
+    "9b384978-a59a-45a1-a182-aeec23f14080",
     "75a4c804-1c67-4304-99cc-e26b7a221653",
     "afb7e4d8-1544-4d47-b01e-d91ede0ff47e",
     "1bb13dfb-aa07-4ce3-bd63-8f57604dc57a",
