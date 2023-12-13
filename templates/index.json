@@ -200,7 +200,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -334,6 +334,48 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "d0fabf71-f098-470f-8446-7a3b0a1f3657": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-heading-1",
+        "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-text-1",
+        "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -343,6 +385,7 @@
     "afb7e4d8-1544-4d47-b01e-d91ede0ff47e",
     "1bb13dfb-aa07-4ce3-bd63-8f57604dc57a",
     "ad709a6c-3753-4504-b5f0-edf6a2a64c79",
-    "4e997b31-5122-4622-b95d-85ec7a756090"
+    "4e997b31-5122-4622-b95d-85ec7a756090",
+    "d0fabf71-f098-470f-8446-7a3b0a1f3657"
   ]
 }
