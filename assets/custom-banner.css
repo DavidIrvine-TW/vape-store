@@ -16,8 +16,8 @@
 .textstyle {
   letter-spacing: 2px;
   font-weight: bold;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  /* padding-top: 1rem;
+  padding-bottom: 1rem; */
   font-size: 1.4rem;
   color: #f4f4f1;
 }
