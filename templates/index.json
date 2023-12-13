@@ -191,7 +191,9 @@
         "5a56b207-f31a-43fb-b4ff-958134ea8d29"
       ],
       "custom_css": [
-        ".title-wrapper-with-link {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}"
+        ".title-wrapper-with-link {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}",
+        ".card__content {display: grid; grid-template-rows: minmax(0, 1fr) max-content minmax(0, 1fr); padding: 1rem; width: 100%; flex-grow: 1; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}",
+        ".card--card {}"
       ],
       "settings": {
         "title": "<strong>FEATURED COLLECTIONS<\/strong>",
