@@ -100,7 +100,7 @@
       "custom_css": [
         ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}",
         "ul {row-gap: 3rem;}",
-        "ul > li {width: 100px;}"
+        "@media screen and (min-width: 750px){ul > li {width: 100px;}}"
       ],
       "settings": {
         "title": "",
@@ -323,6 +323,15 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "4e997b31-5122-4622-b95d-85ec7a756090": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -331,6 +340,7 @@
     "75a4c804-1c67-4304-99cc-e26b7a221653",
     "afb7e4d8-1544-4d47-b01e-d91ede0ff47e",
     "1bb13dfb-aa07-4ce3-bd63-8f57604dc57a",
-    "ad709a6c-3753-4504-b5f0-edf6a2a64c79"
+    "ad709a6c-3753-4504-b5f0-edf6a2a64c79",
+    "4e997b31-5122-4622-b95d-85ec7a756090"
   ]
 }
