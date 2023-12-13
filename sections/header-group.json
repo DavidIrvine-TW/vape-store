@@ -5,7 +5,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__submenu {background-color: blue;}"
+        ".header__submenu {background-color: #f9f50b; font-weight: bold;}"
       ],
       "settings": {
         "logo_position": "middle-left",
