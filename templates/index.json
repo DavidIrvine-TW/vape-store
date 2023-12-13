@@ -226,7 +226,7 @@
         "template--17093300486401__1bb13dfb-aa07-4ce3-bd63-8f57604dc57a-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "COLLECTIONS",
+            "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "",
