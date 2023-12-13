@@ -56,7 +56,7 @@
         "template--17093300486401__9b384978-a59a-45a1-a182-aeec23f14080-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>VAPE BARS<\/strong>",
+            "heading": "<strong>FEATURED COLLECTION<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -134,7 +134,7 @@
         "template--17093300486401__d0fabf71-f098-470f-8446-7a3b0a1f3657-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>FEATURED COLLECTIONS<\/strong>",
+            "heading": "<strong> COLLECTIONS<\/strong>",
             "heading_size": "h1"
           }
         },
