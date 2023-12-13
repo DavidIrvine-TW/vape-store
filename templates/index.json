@@ -100,7 +100,7 @@
       "custom_css": [
         ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}",
         "ul {row-gap: 3rem;}",
-        "@media screen and (min-width: 750px){ul > li {width: 100px;}}"
+        "@media screen and (min-width: 1200px) {ul > li {width: 100px; }}"
       ],
       "settings": {
         "title": "",
