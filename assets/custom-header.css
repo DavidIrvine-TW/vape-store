@@ -25,14 +25,14 @@
 
 .icon-caret {
   transition: 0.3s;
-  display: none;
+  /* display: none; */
 }
 .list-menu__item--active {
    text-decoration: none;
 }
 
 details[open] .header__menu-item .header__active-menu-item {
-  background-color: #F9F50B;
+  
   transition: 0.3s;
   font-weight: bold;
 }
