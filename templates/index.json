@@ -237,11 +237,12 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}",
-        ".card__content {display: grid; grid-template-rows: minmax(0, 1fr) max-content minmax(0, 1fr); width: 100%; flex-grow: 1; position: absolute; bottom: 0%; left: 0%; \/* transform: translate(-50%, -50%); *\/ overflow:hidden;}",
-        ".card__information {background-color: rgba(9, 9, 7, 0.5);}",
+        ".card__content {display: grid; grid-template-rows: minmax(0, 1fr) max-content minmax(0, 1fr); width: 100%; flex-grow: 1; position: absolute; bottom: 0%; left: 0%; \/* transform: translate(-50%, -50%); *\/}",
+        ".card__information {background-color: rgba(9, 9, 7, 0.5); }",
         ".card--card {}",
         ".card__heading {color: #f4f4f1; font-weight: bold;}",
-        ".divider-1234 {height: 4px; width: 25px; background-color: yellow; margin: auto; margin-top: 0.5rem;}"
+        ".divider-1234 {height: 4px; width: 25px; background-color: yellow; margin: auto; margin-top: 0.5rem;}",
+        ".card__media{}"
       ],
       "settings": {
         "title": "",
