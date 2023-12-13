@@ -8,7 +8,7 @@
         ".header__submenu {background-color: #f9f50b;}"
       ],
       "settings": {
-        "logo_position": "middle-left",
+        "logo_position": "top-center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "reduce-logo-size",
