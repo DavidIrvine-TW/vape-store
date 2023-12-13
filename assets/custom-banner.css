@@ -33,6 +33,9 @@
 .banner__heading {
   letter-spacing: 2px;
 }
+.banner__buttons {
+  font-weight: bold;
+}
 
 .divider-123 {
   height: 2px;
