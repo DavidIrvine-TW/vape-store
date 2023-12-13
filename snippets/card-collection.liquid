@@ -49,7 +49,7 @@
     >
       {%- if card_collection.featured_image -%}
         <div class="card__media">
-          <div class="media media--transparent media--hover-effect" style="position: relative">
+          <div class="media media--transparent media--hover-effect" style="position: relative;">
             <img
               srcset="
                 {%- if card_collection.featured_image.width >= 165 -%}{{ card_collection.featured_image | image_url: width: 165 }} 165w,{%- endif -%}
@@ -85,7 +85,7 @@
 
       
       {%- else -%}
-        <div class="card__content" style="position: absolute">
+        <div class="card__content" style="position: absolute;">
           <div class="card__information">
             <h3 class="card__heading">
               <a
