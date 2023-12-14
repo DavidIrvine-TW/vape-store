@@ -374,12 +374,6 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-    },
-    "db2340ec-3191-4138-9f6c-063b96c71a5b": {
-      "type": "closeby-locator",
-      "settings": {
-        "embed_size": "centered"
-      }
     }
   },
   "order": [
@@ -389,7 +383,6 @@
     "d0fabf71-f098-470f-8446-7a3b0a1f3657",
     "afb7e4d8-1544-4d47-b01e-d91ede0ff47e",
     "1bb13dfb-aa07-4ce3-bd63-8f57604dc57a",
-    "ad709a6c-3753-4504-b5f0-edf6a2a64c79",
-    "db2340ec-3191-4138-9f6c-063b96c71a5b"
+    "ad709a6c-3753-4504-b5f0-edf6a2a64c79"
   ]
 }
