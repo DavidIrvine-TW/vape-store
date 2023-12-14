@@ -3346,7 +3346,7 @@ details-disclosure > details {
 /* Element Hovers: Vertical Lift, 3d Lift */
 
 @media (prefers-reduced-motion: no-preference) and (hover: hover) {
-  .animate--hover-3d-lift .card-wrapper .card--card,
+  /* .animate--hover-3d-lift .card-wrapper .card--card,
   .animate--hover-3d-lift .card-wrapper .card--standard .card__inner,
   .animate--hover-3d-lift .button:not(.button--tertiary),
   .animate--hover-3d-lift .shopify-challenge__button,
@@ -3354,7 +3354,7 @@ details-disclosure > details {
   .animate--hover-3d-lift .shopify-payment-button__button,
   .animate--hover-3d-lift .deferred-media .deferred-media__poster-button {
     transition: transform var(--duration-long) ease, box-shadow var(--duration-long) ease;
-    transform-origin: center;
+    transform-origin: center; */
   }
 
   .animate--hover-3d-lift .card-wrapper:hover .card--card,
