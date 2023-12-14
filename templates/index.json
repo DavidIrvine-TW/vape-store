@@ -291,6 +291,9 @@
         "template--17093300486401__1bb13dfb-aa07-4ce3-bd63-8f57604dc57a-text-1",
         "template--17093300486401__1bb13dfb-aa07-4ce3-bd63-8f57604dc57a-buttons-1"
       ],
+      "custom_css": [
+        ".divider-1234 {height: 4px; width: 25px; background-color: yellow; margin: auto; margin-top: 0.5rem;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/100ml-vape-liquid_1512x_a06b9636-2f66-4df5-a2d6-548a963febf7.jpg",
         "image_overlay_opacity": 40,
