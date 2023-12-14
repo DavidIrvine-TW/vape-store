@@ -57,14 +57,12 @@
         <h2 class="title inline-richtext {{ section.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
           {{ section.settings.title | upcase }}
         </h2>
-      
       {%- endif -%}
-      
+
       {%- if section.settings.description != blank
         or section.settings.show_description
         and section.settings.collection.description != empty
       -%}
-      
         <div class="collection__description {{ section.settings.description_style }} rte{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
           {%- if section.settings.show_description -%}
             {{ section.settings.collection.description }}
@@ -72,15 +70,14 @@
             {{ section.settings.description -}}
           {%- endif %}
         </div>
-      
       {%- endif -%}
-    
-     
     </div>
 
-    <div class="featured-divider">
-        <hr class="divider-123"/> 
+    <!--
+      <div class="featured-divider">
+        <hr class="divider-123"/>
       </div>
+    -->
 
     <slider-component class="slider-mobile-gutter{% if section.settings.full_width %} slider-component-full-width{% endif %}{% if show_mobile_slider == false %} page-width{% endif %}{% if show_desktop_slider == false and section.settings.full_width == false %} page-width-desktop{% endif %}{% if show_desktop_slider %} slider-component-desktop{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
       <ul
