@@ -3357,7 +3357,7 @@ details-disclosure > details {
     transform-origin: center; */
   }
 
-  .animate--hover-3d-lift .card-wrapper:hover .card--card,
+  /* .animate--hover-3d-lift .card-wrapper:hover .card--card,
   .animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,
   .animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,
   .animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,
@@ -3367,7 +3367,7 @@ details-disclosure > details {
     transition: transform var(--duration-extended) ease, box-shadow var(--duration-long) ease; /* Slow the card transition speed while hover is active. */
     transform: rotate(1deg);
     box-shadow: -1rem -1rem 1rem -1rem rgba(0, 0, 0, 0.05), 1rem 1rem 1rem -1rem rgba(0, 0, 0, 0.05),
-      0 0 0.5rem 0 rgba(255, 255, 255, 0), 0 2rem 3.5rem -2rem rgba(0, 0, 0, 0.5);
+      0 0 0.5rem 0 rgba(255, 255, 255, 0), 0 2rem 3.5rem -2rem rgba(0, 0, 0, 0.5); */
   }
 
   .animate--hover-3d-lift .deferred-media:hover .deferred-media__poster-button {
