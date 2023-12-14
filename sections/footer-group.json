@@ -58,12 +58,21 @@
             "heading": "Heading",
             "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
           }
+        },
+        "908f7586-e976-49d3-9904-fb75cef1afe0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pencig-logo-black_200x2_5b11806a-55fc-4c2a-991f-f668948123bc.png",
+            "image_width": 100,
+            "alignment": "right"
+          }
         }
       },
       "block_order": [
         "6e233625-cfaf-4115-8b5e-341745e0b90d",
         "5b88a25f-0f9b-4045-af33-b3a9c4b9d975",
-        "76cbc828-62df-4fdc-9788-b298896612e8"
+        "76cbc828-62df-4fdc-9788-b298896612e8",
+        "908f7586-e976-49d3-9904-fb75cef1afe0"
       ],
       "settings": {
         "color_scheme": "background-1",
