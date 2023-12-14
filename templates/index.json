@@ -408,11 +408,11 @@
       "settings": {
         "product": "drag-x-80w-starter-kit-coils-battery",
         "color_scheme": "background-1",
-        "secondary_background": false,
+        "secondary_background": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "media_position": "right",
+        "media_position": "left",
         "image_zoom": "hover",
         "hide_variants": false,
         "enable_video_looping": false,
