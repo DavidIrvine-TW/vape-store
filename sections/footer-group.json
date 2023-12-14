@@ -41,6 +41,7 @@
       "blocks": {
         "6e233625-cfaf-4115-8b5e-341745e0b90d": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Quick links",
             "menu": "footer"
@@ -48,6 +49,7 @@
         },
         "5b88a25f-0f9b-4045-af33-b3a9c4b9d975": {
           "type": "brand_information",
+          "disabled": true,
           "settings": {
             "show_social": true
           }
@@ -63,7 +65,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/pencig-logo-black_200x2_5b11806a-55fc-4c2a-991f-f668948123bc.png",
-            "image_width": 100,
+            "image_width": 80,
             "alignment": "right"
           }
         }
@@ -76,7 +78,7 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
         "show_social": true,
