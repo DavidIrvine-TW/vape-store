@@ -101,7 +101,7 @@
         ".title-wrapper {display: flex; align-items: center; justify-content: center; margin-bottom: 0px;}",
         "ul {row-gap: 3rem;}",
         "@media screen and (min-width: 1200px) {ul > li {width: 100px; }}",
-        ".quick-add__submit:hover {background-color: #f9f50b; font-weight: bold; text-transform: uppercase;}"
+        ".quick-add__submit:hover {background-color: #f9f50b; font-weight: bold; text-transform: uppercase; border: none;}"
       ],
       "settings": {
         "title": "",
