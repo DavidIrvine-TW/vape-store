@@ -1,6 +1,6 @@
 {
-  "type": "header",
-  "name": "Group name",
+  "type": "footer",
+  "name": "footer-alternate",
   "sections": {
   },
   "order": [
