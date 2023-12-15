@@ -131,6 +131,12 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "footer-alternate": {
+        "type": "footer-alternate",
+        "settings": {
+          "copyright": "COPYRIGHT TEZT"
+        }
       }
     },
     "content_for_index": [
