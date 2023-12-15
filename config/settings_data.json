@@ -4,9 +4,9 @@
     "logo_width": 70,
     "favicon": "shopify:\/\/shop_images\/pencig-logo-black_200x_7a695945-da1a-47ca-8abe-cf87626a8be2.png",
     "type_header_font": "oswald_n4",
-    "heading_scale": 150,
+    "heading_scale": 100,
     "type_body_font": "abel_n4",
-    "body_scale": 120,
+    "body_scale": 100,
     "page_width": 1500,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
@@ -134,6 +134,17 @@
       },
       "footer-alternate": {
         "type": "footer-alternate",
+        "blocks": {
+          "a2bdd5a0-8d5f-4e09-8a6c-70d85c224e0d": {
+            "type": "navigation",
+            "settings": {
+              "linkList": ""
+            }
+          }
+        },
+        "block_order": [
+          "a2bdd5a0-8d5f-4e09-8a6c-70d85c224e0d"
+        ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
         }
