@@ -6,7 +6,7 @@
     "type_header_font": "oswald_n4",
     "heading_scale": 100,
     "type_body_font": "abel_n4",
-    "body_scale": 100,
+    "body_scale": 110,
     "page_width": 1500,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
@@ -135,15 +135,15 @@
       "footer-alternate": {
         "type": "footer-alternate",
         "blocks": {
-          "a2bdd5a0-8d5f-4e09-8a6c-70d85c224e0d": {
+          "cfde5647-46bd-4c00-afc7-87a49536ca43": {
             "type": "navigation",
             "settings": {
-              "linkList": ""
+              "linkList": "footer"
             }
           }
         },
         "block_order": [
-          "a2bdd5a0-8d5f-4e09-8a6c-70d85c224e0d"
+          "cfde5647-46bd-4c00-afc7-87a49536ca43"
         ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
