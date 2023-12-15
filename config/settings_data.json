@@ -134,6 +134,17 @@
       },
       "footer-alternate": {
         "type": "footer-alternate",
+        "blocks": {
+          "cfde5647-46bd-4c00-afc7-87a49536ca43": {
+            "type": "navigation",
+            "settings": {
+              "linkList": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "cfde5647-46bd-4c00-afc7-87a49536ca43"
+        ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
         }
