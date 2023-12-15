@@ -140,10 +140,17 @@
             "settings": {
               "linkList": "footer"
             }
+          },
+          "a270b29a-8bd9-4ac9-9309-09759a2cc17d": {
+            "type": "navigation",
+            "settings": {
+              "linkList": ""
+            }
           }
         },
         "block_order": [
-          "cfde5647-46bd-4c00-afc7-87a49536ca43"
+          "cfde5647-46bd-4c00-afc7-87a49536ca43",
+          "a270b29a-8bd9-4ac9-9309-09759a2cc17d"
         ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
