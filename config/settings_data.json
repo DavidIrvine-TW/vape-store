@@ -154,12 +154,19 @@
             "settings": {
               "linkList": "footer"
             }
+          },
+          "beeebd1d-164d-4e6a-8456-de0974bbfd79": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pencig-logo-black_200x2_5b11806a-55fc-4c2a-991f-f668948123bc.png"
+            }
           }
         },
         "block_order": [
           "5c9ebbb4-f465-4193-8e8d-55804850b3ae",
           "7b413452-7bf5-4b74-a0c2-fe05409954d9",
-          "1163117c-8edb-4438-9dd1-91c6bcea24ad"
+          "1163117c-8edb-4438-9dd1-91c6bcea24ad",
+          "beeebd1d-164d-4e6a-8456-de0974bbfd79"
         ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
