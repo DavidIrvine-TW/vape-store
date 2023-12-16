@@ -1,3 +1,50 @@
 .footer-alt {
-    background-color: red;
+
+ border: 1px solid gray;
+ padding: 2rem 0;
+}
+
+.footer-width {
+    margin: 0 auto;
+    width: 90%;
+}
+.footer-bottom > p  {
+   text-align: center;
+   margin-bottom: 0;
+  
+}
+.footer-top {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+@media screen and (min-width: 760px){
+    .footer-top {
+        flex-direction: row;
+       
+        justify-content: space-between;
+
+    }
+}
+
+.footer-column {
+    max-width: 500px;
+}
+
+.footer-column > h2 {
+    font-size: 16px;
+}
+.footer-column > p {
+    font-size: 13px;
+}
+
+
+li {
+    font-size: 13px;
+    list-style: none;
+   
+}
+a {
+   
+    text-decoration: none;
 }
