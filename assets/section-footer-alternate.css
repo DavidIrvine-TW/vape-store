@@ -41,6 +41,9 @@ background-color:  #11110D;
     font-size: 13px;
     color: white;
 }
+.footer-column p, .footer-column a {
+    color: gray;
+}
 
 
 li {
@@ -52,4 +55,10 @@ li {
 a {
     color: white;
     text-decoration: none;
+}
+.footer-column a {
+    transition: 0.2s color;
+}
+.footer-column a:hover {
+    color: white;;
 }
