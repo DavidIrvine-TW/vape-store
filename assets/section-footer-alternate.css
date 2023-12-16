@@ -11,8 +11,10 @@ background-color:  #11110D;
 .footer-bottom > p  {
    text-align: center;
    margin-bottom: 0;
+   color: gray;
   
 }
+
 .footer-top {
     display: flex;
     flex-direction: column;
@@ -21,7 +23,6 @@ background-color:  #11110D;
 @media screen and (min-width: 760px){
     .footer-top {
         flex-direction: row;
-       
         justify-content: space-between;
 
     }
