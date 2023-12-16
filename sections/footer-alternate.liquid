@@ -20,15 +20,20 @@
 
           {% elsif block.type == 'newsletter' %}
             <div class="footer-column">
-            <h2>{{ block.settings.heading }}</h2>
-            {{block.settings.text}}  
-            <form>
-              <input type="email" placeholder="Email address"/>
-              <button type="submit">Subscribe</button>
+                <h2>{{ block.settings.heading }}</h2>
+                {{block.settings.text}}  
+                <form>
+                  <input type="email" placeholder="Email address"/>
+                  <button type="submit">Subscribe</button>
+                </form> 
+            </div>
 
-
-            </form> 
-          </div>
+            {% elsif block.type == 'image' %}
+              <div class="footer-column">
+                  {% comment %} <h2>{{ block.settings.heading }}</h2> {% endcomment %}
+                  {{block.settings.image}}  
+                  <img src="{{block.settings.image}}"/> 
+              </div>
 
        
 
@@ -81,11 +86,6 @@
           "type" : "image_picker",
           "label" : "Image"
 
-        },
-        {
-          "id" : "text",
-          "type" : "richtext",
-          "label" : "Body text"
         }
       ]
     },
