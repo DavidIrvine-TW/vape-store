@@ -135,6 +135,14 @@
       "footer-alternate": {
         "type": "footer-alternate",
         "blocks": {
+          "260740fe-c21f-441a-9a74-327df0edc568": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "imageheader": "",
+              "image": "shopify:\/\/shop_images\/pencig-logo-black_200x2_5b11806a-55fc-4c2a-991f-f668948123bc.png"
+            }
+          },
           "5c9ebbb4-f465-4193-8e8d-55804850b3ae": {
             "type": "text",
             "settings": {
@@ -154,20 +162,13 @@
             "settings": {
               "linkList": "footer"
             }
-          },
-          "260740fe-c21f-441a-9a74-327df0edc568": {
-            "type": "image",
-            "settings": {
-              "imageheader": "<p>ljkvbgj<\/p>",
-              "image": "shopify:\/\/shop_images\/pencig-logo-black_200x2_5b11806a-55fc-4c2a-991f-f668948123bc.png"
-            }
           }
         },
         "block_order": [
+          "260740fe-c21f-441a-9a74-327df0edc568",
           "5c9ebbb4-f465-4193-8e8d-55804850b3ae",
           "7b413452-7bf5-4b74-a0c2-fe05409954d9",
-          "1163117c-8edb-4438-9dd1-91c6bcea24ad",
-          "260740fe-c21f-441a-9a74-327df0edc568"
+          "1163117c-8edb-4438-9dd1-91c6bcea24ad"
         ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
