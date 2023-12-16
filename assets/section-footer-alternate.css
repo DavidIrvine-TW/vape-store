@@ -1,5 +1,5 @@
 .footer-alt {
-
+background-color:  #11110D;
  border: 1px solid gray;
  padding: 2rem 0;
 }
@@ -33,18 +33,23 @@
 
 .footer-column > h2 {
     font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1.5px;
 }
 .footer-column > p {
     font-size: 13px;
+    color: white;
 }
 
 
 li {
     font-size: 13px;
     list-style: none;
+  
    
 }
 a {
-   
+    color: white;
     text-decoration: none;
 }
