@@ -30,8 +30,8 @@
 
             {% elsif block.type == 'image' %}
               <div class="footer-column">
-                  {% comment %} <h2>{{ block.settings.heading }}</h2> {% endcomment %}
-                  {{block.settings.image}}  
+                  <h2>{{ block.settings.imageheader }}</h2>
+                  
                   <img src="{{block.settings.image | image_url}}"/> 
               </div>
 
@@ -81,6 +81,12 @@
       "name": "footer-image",
       "type" : "image",
       "settings": [
+        {
+          "id" : "imageheader",
+          "type" : "richtext",
+          "label" : "Heading"
+
+        },
         {
           "id" : "image",
           "type" : "image_picker",
