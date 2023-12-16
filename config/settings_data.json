@@ -135,12 +135,6 @@
       "footer-alternate": {
         "type": "footer-alternate",
         "blocks": {
-          "1163117c-8edb-4438-9dd1-91c6bcea24ad": {
-            "type": "navigation",
-            "settings": {
-              "linkList": "footer"
-            }
-          },
           "5c9ebbb4-f465-4193-8e8d-55804850b3ae": {
             "type": "text",
             "settings": {
@@ -151,15 +145,21 @@
           "7b413452-7bf5-4b74-a0c2-fe05409954d9": {
             "type": "newsletter",
             "settings": {
-              "heading": "NewsLETTER",
-              "text": "<p>JOING THE CLUB<\/p>"
+              "heading": "NEWSLETTER",
+              "text": "<p>Subscribe to get notified about product launches, special offers and company news.<\/p>"
+            }
+          },
+          "1163117c-8edb-4438-9dd1-91c6bcea24ad": {
+            "type": "navigation",
+            "settings": {
+              "linkList": "footer"
             }
           }
         },
         "block_order": [
-          "1163117c-8edb-4438-9dd1-91c6bcea24ad",
           "5c9ebbb4-f465-4193-8e8d-55804850b3ae",
-          "7b413452-7bf5-4b74-a0c2-fe05409954d9"
+          "7b413452-7bf5-4b74-a0c2-fe05409954d9",
+          "1163117c-8edb-4438-9dd1-91c6bcea24ad"
         ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
