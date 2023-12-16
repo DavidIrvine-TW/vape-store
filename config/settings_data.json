@@ -147,11 +147,19 @@
               "heading": "About Pencig",
               "text": "<p><a href=\"https:\/\/au.augustethelabel.com\/\" target=\"_blank\" title=\"https:\/\/au.augustethelabel.com\/\">Auguste The Label<\/a> is a boutique Australian brand dreamt up by Byron Bay native Ebony Eagles.<\/p><p>Ebony started Auguste with a clear vision: to transcend trends, and instead design<em> future vintage <\/em>pieces that would be loved for seasons to come.<\/p>"
             }
+          },
+          "7b413452-7bf5-4b74-a0c2-fe05409954d9": {
+            "type": "newsletter",
+            "settings": {
+              "heading": "NewsLETTER",
+              "text": "<p>JOING THE CLUB<\/p>"
+            }
           }
         },
         "block_order": [
           "1163117c-8edb-4438-9dd1-91c6bcea24ad",
-          "5c9ebbb4-f465-4193-8e8d-55804850b3ae"
+          "5c9ebbb4-f465-4193-8e8d-55804850b3ae",
+          "7b413452-7bf5-4b74-a0c2-fe05409954d9"
         ],
         "settings": {
           "copyright": "COPYRIGHT TEZT"
