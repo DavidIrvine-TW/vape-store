@@ -1,3 +1,8 @@
+{% stylesheet %}
+  {{ 'section-footer-alternate.css' | asset_url |  stylesheet_tag }}
+{% endstylesheet %}
+
+
 <footer class="footer-alt">
   <div class="footer-width">
     <div class="footer-top">
@@ -125,9 +130,6 @@
 }
 {% endschema %}
 
-{% stylesheet %}
-  {{ 'section-footer-alternate.css' | asset_url |  stylesheet_tag }}
-{% endstylesheet %}
 
 {% javascript %}
 {% endjavascript %}
