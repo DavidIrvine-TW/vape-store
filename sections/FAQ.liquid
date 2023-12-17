@@ -6,6 +6,23 @@
     <div class="faq-page-header-content">
       {{ page.content }}
     </div>
+
+    <div class="faq-page-body">
+      {% for block in section.blocks %}
+        {% if block.type == 'category' %}
+          <h2 class="faq-page-category">{{ block.settings.title }}</h2>
+        {% else %}
+          <div class="faq-page-question">
+            <header class="faq-page-question-header">
+              <h3>{{ block.settings.title }}</h3>
+            </header>
+            <div class="faq-page-question-body">
+              {{ block.settings.body }}
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>
 
