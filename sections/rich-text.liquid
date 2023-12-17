@@ -33,11 +33,13 @@
               </h2>
 
          <!-- CUSTOM STYLES -->
+        {%  if block.settings.body_text_color != blank %}
         <style>
           .section-{{ section.id }}-padding h2.rich-text__heading.rte {
             color: {{ block.settings.body_text_color }}
           }
         </style>
+        {% endif %}
         
             {%- when 'caption' -%}
               <p
