@@ -43,6 +43,12 @@
             "body": ""
           }
         },
+        "b6015069-76a4-45c6-b538-eea5f8cd8778": {
+          "type": "category",
+          "settings": {
+            "title": "shipping"
+          }
+        },
         "5700836e-d4a6-42b0-a957-579b7c91de2d": {
           "type": "question",
           "settings": {
@@ -58,6 +64,7 @@
         "14eeb92e-c965-48e3-92d2-5acda368beeb",
         "97510078-f126-41c9-b05d-65310d9fbd0c",
         "78fcadde-2354-41e2-ad13-c7a9d0464da5",
+        "b6015069-76a4-45c6-b538-eea5f8cd8778",
         "5700836e-d4a6-42b0-a957-579b7c91de2d"
       ],
       "settings": {
