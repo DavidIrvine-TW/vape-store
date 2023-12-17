@@ -87,6 +87,7 @@
         ".rich-text {border: none;}"
       ],
       "settings": {
+        "section_id": "bananaman",
         "desktop_content_position": "center",
         "content_alignment": "right",
         "color_scheme": "",
@@ -166,6 +167,7 @@
         ".rich-text {border: none;}"
       ],
       "settings": {
+        "section_id": "",
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
@@ -346,6 +348,7 @@
         ".rich-text {border: none;}"
       ],
       "settings": {
+        "section_id": "",
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
