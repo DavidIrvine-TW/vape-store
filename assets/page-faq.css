@@ -9,7 +9,6 @@
   margin: 0 auto;
   width: calc(100% - 40px);
   max-width: 500px;
-  border: 1px solid black;
 }
 .faq-page-header {
 
@@ -24,5 +23,16 @@
   text-transform: uppercase;
   opacity: 0.4;
   font-size: 1rem;
+}
+
+.faq-page-question {
+  border-bottom: 1px solid gray;
   
+}
+.faq-page-question-header h3 {
+
+}
+
+.faq-page-question-body {
+
 }
