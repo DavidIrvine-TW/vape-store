@@ -2,6 +2,17 @@
   "sections": {
     "main": {
       "type": "FAQ",
+      "blocks": {
+        "a05b75b1-03fb-4ba4-a84c-3ecbdc1d25a9": {
+          "type": "category",
+          "settings": {
+            "title": "Category One"
+          }
+        }
+      },
+      "block_order": [
+        "a05b75b1-03fb-4ba4-a84c-3ecbdc1d25a9"
+      ],
       "settings": {
       }
     }
