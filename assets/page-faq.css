@@ -9,6 +9,7 @@
   margin: 0 auto;
   width: calc(100% - 40px);
   max-width: 500px;
+  border: 1px solid black;
 }
 .faq-page-header {
   padding-bottom: 40px;
