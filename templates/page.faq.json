@@ -28,13 +28,37 @@
             "title": "What to do when package is damaged?",
             "body": "<p>return it to the store<\/p>"
           }
+        },
+        "97510078-f126-41c9-b05d-65310d9fbd0c": {
+          "type": "question",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
+        },
+        "78fcadde-2354-41e2-ad13-c7a9d0464da5": {
+          "type": "question",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
+        },
+        "5700836e-d4a6-42b0-a957-579b7c91de2d": {
+          "type": "question",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
         }
       },
       "block_order": [
         "a05b75b1-03fb-4ba4-a84c-3ecbdc1d25a9",
         "58a76010-ee2c-4c31-bca6-4a30b6c64424",
         "317d5d6c-64cd-4586-b119-4bb0d050ba74",
-        "14eeb92e-c965-48e3-92d2-5acda368beeb"
+        "14eeb92e-c965-48e3-92d2-5acda368beeb",
+        "97510078-f126-41c9-b05d-65310d9fbd0c",
+        "78fcadde-2354-41e2-ad13-c7a9d0464da5",
+        "5700836e-d4a6-42b0-a957-579b7c91de2d"
       ],
       "settings": {
       }
