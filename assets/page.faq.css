@@ -3,3 +3,7 @@
 .faq-page {
   padding: 60px 0;
 }
+
+.faq-page-width {
+  max-width: 500px;
+}
