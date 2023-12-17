@@ -15,11 +15,10 @@
   padding-bottom: 40px;
 }
 .faq-page-header h1 {
- font-size: 44px;
-  margin-bottom: 10px;
+ font-size: 2.5rem;
 }
 .faq-page-header-content {
-  font-size: 21px;
+  font-size: 1.25rem;
 }
 .faq-page-category {
   text-transform: uppercase;
