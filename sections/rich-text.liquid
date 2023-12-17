@@ -53,6 +53,16 @@
               >
                 {{ block.settings.text }}
               </div>
+        <!-- CUSTOM STYLES -->
+        <style>
+          div.rich-text__text.rte p {
+            color: {{block.settings.body_text_color}}
+          }
+        </style>
+        
+
+
+        
               <hr class="divider-123">
 
             {%- when 'button' -%}
