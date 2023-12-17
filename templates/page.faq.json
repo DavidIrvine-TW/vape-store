@@ -32,15 +32,15 @@
         "97510078-f126-41c9-b05d-65310d9fbd0c": {
           "type": "question",
           "settings": {
-            "title": "",
-            "body": ""
+            "title": "Do i get my money back?",
+            "body": "<p>Yes!<\/p>"
           }
         },
         "78fcadde-2354-41e2-ad13-c7a9d0464da5": {
           "type": "question",
           "settings": {
-            "title": "",
-            "body": ""
+            "title": "What time limit do you have on returns?",
+            "body": "<p>14 days! <\/p>"
           }
         },
         "b6015069-76a4-45c6-b538-eea5f8cd8778": {
@@ -52,8 +52,8 @@
         "5700836e-d4a6-42b0-a957-579b7c91de2d": {
           "type": "question",
           "settings": {
-            "title": "",
-            "body": ""
+            "title": "Where do you ship?",
+            "body": "<p>We ship worldwide.<\/p>"
           }
         }
       },
