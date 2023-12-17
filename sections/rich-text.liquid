@@ -31,6 +31,14 @@
               >
                 {{ block.settings.heading }}
               </h2>
+
+         <!-- CUSTOM STYLES -->
+        <style>
+          div.rich-text__text.rte h2 {
+            color: {{block.settings.body_text_color}}
+          }
+        </style>
+        
             {%- when 'caption' -%}
               <p
                 class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
@@ -53,13 +61,7 @@
               >
                 {{ block.settings.text }}
               </div>
-        <!-- CUSTOM STYLES -->
-        <style>
-          div.rich-text__text.rte p {
-            color: {{block.settings.body_text_color}}
-          }
-        </style>
-        
+       
 
 
         
