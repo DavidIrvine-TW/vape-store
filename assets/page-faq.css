@@ -55,7 +55,7 @@
 
 .faq-page-question-header svg {
   width: 36px;
-  transition: 0.2s transform;
+  transition: 0.5s transform;
 }
 
 .faq-page-question.active .faq-page-question-header svg {
@@ -65,7 +65,7 @@
 .faq-page-question-body {
   max-height: 0;
   overflow: hidden;
-  transition: 1s max-height;
+  transition: .2s max-height;
 }
 
 .faq-page-question.active .faq-page-question-body {

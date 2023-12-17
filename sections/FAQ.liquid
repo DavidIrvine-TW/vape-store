@@ -17,6 +17,7 @@
           <div class="faq-page-question">
             <header class="faq-page-question-header">
               <h3>{{ block.settings.title }}</h3>
+              <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-345 240-585l56-56 184 184 184-184 56 56-240 240Z"/></svg>
             </header>
             <div class="faq-page-question-body">
               {{ block.settings.body }}
@@ -69,4 +70,11 @@
 {% endstylesheet %}
 
 {% javascript %}
+const questionHeaders = document.querySelectorAll(".faq-page-question-header");
+
+questionHeaders.forEach((header) => {
+  header.addEventListener("click", () => {
+    header.parentElement.classList.toggle("active");
+  });
+});
 {% endjavascript %}
