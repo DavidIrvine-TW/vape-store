@@ -57,6 +57,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>VAPE BARS<\/strong>",
+            "body_text_color": "#af2222",
             "heading_size": "h1"
           }
         },
@@ -137,6 +138,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong> COLLECTIONS<\/strong>",
+            "body_text_color": "#000000",
             "heading_size": "h1"
           }
         },
@@ -318,6 +320,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>FEATURED PRODUCT<\/strong>",
+            "body_text_color": "#000000",
             "heading_size": "h1"
           }
         },
