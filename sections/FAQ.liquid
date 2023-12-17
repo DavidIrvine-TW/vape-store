@@ -1,5 +1,6 @@
 {{ 'page-faq.css' | asset_url | stylesheet_tag }}
 
+
 <div class="faq-page">
   <div class="faq-page-width">
     <div class="faq-page-header">
@@ -29,6 +30,9 @@
   </div>
 </div>
 
+       {{ 'toggle.js' | asset_url  }}
+
+                
 {% schema %}
 {
   "name": "FAQ",
@@ -70,11 +74,5 @@
 {% endstylesheet %}
 
 {% javascript %}
-const questionHeaders = document.querySelectorAll(".faq-page-question-header");
 
-questionHeaders.forEach((header) => {
-  header.addEventListener("click", () => {
-    header.parentElement.classList.toggle("active");
-  });
-});
 {% endjavascript %}
