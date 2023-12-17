@@ -10,6 +10,6 @@
   width: calc(100% - 40px);
   max-width: 500px;
 }
-.faq-page-category {
-  color: pink;
+.faq-page-header {
+  padding-bottom: 60px;
 }
