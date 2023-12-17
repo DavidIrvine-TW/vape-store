@@ -7,3 +7,6 @@
 .faq-page-width {
   max-width: 500px;
 }
+.faq-page-header > h2 {
+  color: pink;
+}
