@@ -6,6 +6,8 @@
 }
 
 .faq-page-width {
+  margin: 0 auto;
+  width: calc(100% - 40px);
   max-width: 500px;
 }
 .faq-page-category {
