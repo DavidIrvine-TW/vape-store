@@ -151,6 +151,7 @@
 
 
 <script>
+  console.log({{section.settings.image | image_url}})
   document.addEventListener('DOMContentLoaded', function () {
     const slideImages = [
       "{{ section.settings.image | image_url }}",
