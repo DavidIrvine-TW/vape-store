@@ -153,8 +153,8 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     const slideImages = [
-      "{{ section.settings.image  }}",
-      "{{ section.settings.image_2 }}"
+      "{{ section.settings.image | image_url }}",
+      "{{ section.settings.image_2 | image_url  }}"
     ];
 
     let step = 0;
