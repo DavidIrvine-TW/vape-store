@@ -1,7 +1,6 @@
 {{ 'custom-image-banner.css' | asset_url | stylesheet_tag }}
 {{ 'custom-banner.css' | asset_url | stylesheet_tag }}
 
-
 {%- if section.settings.image_height == 'adapt' and section.settings.image != blank -%}
   {%- style -%}
     @media screen and (max-width: 749px) {
@@ -108,7 +107,7 @@
             >
               <p class="textstyle">{{ block.settings.text }}</p>
             </div>
-          <hr class="divider-123"/>
+            <hr class="divider-123">
           {%- when 'buttons' -%}
             <div
               class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %}"
@@ -149,11 +148,10 @@
 
 {% comment %} {{ 'banner-slide.js.liquid' | asset_url | script_tag }} {% endcomment %}
 
-
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     const slideImages = [
-      "{{ '791f1e59e84bba5802cd92984887bf4a.gif' | asset_url }}"
+      "{{ '791f1e59e84bba5802cd92984887bf4a.gif' | asset_url }}",
       "{{ 'GIRL-VAPE-GIF.gif' | asset_url }}"
     ];
 
@@ -187,8 +185,7 @@
     "groups": ["header", "footer"]
   },
   "settings": [
-    
-    
+
     {
       "type": "range",
       "id": "image_overlay_opacity",
