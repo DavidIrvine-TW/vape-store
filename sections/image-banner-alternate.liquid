@@ -151,12 +151,10 @@
 
 
 <script>
-  console.log("{{section.settings.image_3 | image_url}}")
   document.addEventListener('DOMContentLoaded', function () {
     const slideImages = [
-      "{{ section.settings.image | image_url }}",
-      "{{ section.settings.image_2 | image_url  }}",
-      "{{ section.settings.image_3 | image_url  }}"
+      "{{ '791f1e59e84bba5802cd92984887bf4a.gif' | asset_url }}"
+      "{{ 'GIRL-VAPE-GIF.gif' | asset_url }}"
     ];
 
     let step = 0;
@@ -178,7 +176,7 @@
 
     slideIt();
   });
-
+  console.log({{section.settings.image}})
 </script>
 
 {% schema %}
@@ -190,21 +188,6 @@
     "groups": ["header", "footer"]
   },
   "settings": [
-    {
-      "type": "image_picker",
-      "id": "image",
-      "label": "t:sections.image-banner.settings.image.label"
-    },
-    {
-      "type": "image_picker",
-      "id": "image_2",
-      "label": "t:sections.image-banner.settings.image_2.label"
-    },
-     {
-      "type": "image_picker",
-      "id": "image_3",
-      "label": "t:sections.image-banner.settings.image_3.label"
-    },
     
     
     {
